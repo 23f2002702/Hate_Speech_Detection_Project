@@ -1,7 +1,6 @@
 Users can install dependencies by running:
-``` bash
-pip install -r requirements.txt
-```
+    pip install -r requirements.txt
+
 
 1. pandas
 2. numpy
